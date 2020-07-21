@@ -8,7 +8,7 @@ Social Distancing app made using tiny yolov4 <br/>
 git clone https://github.com/AlexeyAB/darknet
 pip install opencv-contrib-python
 ```
-2)replace the Makefile in cloned directory with Makefile from my GPU folder if using GPU else from CPU folder
+2)replace the Makefile in cloned directory with Makefile from my GPU folder if using GPU else from CPU folder<br/>
 3) Inside Terminal or Command Prompt write
 ```
 make
