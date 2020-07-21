@@ -73,7 +73,8 @@ def YOLO():
         except Exception:
             pass
     #cap = cv2.VideoCapture(0)
-    cap = cv2.VideoCapture("/Users/prituldave/projects/yolov4/darknet/social_distancing_dataset/data1.mp4")
+    path = input("Enter video path or IP camera address")
+    cap = cv2.VideoCapture(path)
     cap.set(3, 512)
     cap.set(4, 512)
     out = cv2.VideoWriter(
