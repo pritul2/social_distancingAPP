@@ -6,6 +6,7 @@ Social Distancing app made using tiny yolov4 <br/>
 1) Inside Terminal or Command Prompt write
 ```
 git clone https://github.com/AlexeyAB/darknet
+pip install opencv-contrib-python
 ```
 2)replace the Makefile in cloned directory with Makefile from my GPU folder if using GPU else from CPU folder
 3) Inside Terminal or Command Prompt write
@@ -18,3 +19,5 @@ https://github-production-release-asset-2e65be.s3.amazonaws.com/75388965/bc496b8
 ```
 python darknet_video.py
 ```
+For any more errors in installing check on issue section of AlexyAb </br>
+https://github.com/AlexeyAB/darknet/issues
