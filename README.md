@@ -1,5 +1,5 @@
 # social_distancingAPP
-Social Distancing app made using tiny yolov4 <br/>
+Social Distancing app made using tiny yolov4 supported for CCTV <br/>
 ![alt_text](https://github.com/pritul2/social_distancingAPP/blob/master/convert-to-giff.gif)
 
 # Installing libraries for GPU/CPU
